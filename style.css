@@ -1,0 +1,19 @@
+.bigsquare {
+	background-color: black;
+	height: 408px;
+	width: 408px;
+	padding: 10px;
+	border-radius: 5px;
+}
+.square {
+	background-color: blue;
+	height: 96px;
+	width: 96px;
+	float: left; 
+	margin: 1px;
+	border: 2px solid white;
+	border-radius: 5px;
+ 	text-align: center;
+    vertical-align: middle;
+    font-size: 30px;
+}
