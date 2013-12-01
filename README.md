@@ -3,6 +3,9 @@ Puzzle
 
 Puzzle with numbers
 
+## Demo
+You can try this game online [here](http://ghitab.github.io/Puzzle/Demo/)
+
 ## How to play
 
 Click and play with these numbers until they are in order 1..15.
