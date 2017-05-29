@@ -4,7 +4,7 @@ Puzzle
 Puzzle with numbers
 
 ## Demo
-You can try this game online [here](http://ghitab.github.io/Puzzle/Demo/)
+You can try this game online [here](http://ghitab.github.io/Puzzle/)
 
 ## How to play
 
