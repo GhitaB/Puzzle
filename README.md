@@ -1,3 +1,5 @@
+Moved here: https://github.com/happywords/puzzle-with-numbers
+
 Puzzle
 ======
 
