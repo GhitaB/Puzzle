@@ -18,3 +18,5 @@ Click and play with these numbers until they are in order 1..15.
 ## License
 
 See the license file.
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/ghitab/find-me-on-cm-b.svg)](https://www.codementor.io/@ghitab?refer=badge)
